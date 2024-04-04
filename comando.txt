@@ -1,1 +1,5 @@
 git init: inicia el repositorio 
+git add .: Agrega todos los archivos al repositorio
+git status: Muestra el estado de los archivos.
+git add <programa especifico>: Agrega los ultimos cambios en especificas rutas.
+git commit -m"":Agrega todos los cambios realizados con un mensage.
